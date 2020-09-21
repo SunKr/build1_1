@@ -1,0 +1,5 @@
+C:/Users/Suncream/Desktop/new/build1_1/CMakeFiles/student_tests.dir
+C:/Users/Suncream/Desktop/new/build1_1/CMakeFiles/submission.dir
+C:/Users/Suncream/Desktop/new/build1_1/CMakeFiles/RUN_TESTS.dir
+C:/Users/Suncream/Desktop/new/build1_1/CMakeFiles/ALL_BUILD.dir
+C:/Users/Suncream/Desktop/new/build1_1/CMakeFiles/ZERO_CHECK.dir
